@@ -71,7 +71,7 @@
       <hotspot id="Point04" description="" skinid="ht_node" tilt="-4.28" url="{node4}" pan="-31.49" target="" title=""/>
       <hotspot id="Point05" description="" skinid="ht_url" tilt="1.54" url="https://drive.google.com/file/d/0B68uyEu1RE7HeGpsdzBSR0l4UE0/view?usp=sharing" pan="148.99" target="_blank" title=""/>
       <hotspot id="Point06" description="" skinid="ht_url" tilt="0.5" url="https://drive.google.com/file/d/0B68uyEu1RE7HTGtVaktKYV83ZWM/view?usp=sharing" pan="-177.2" target="_blank" title=""/>
-      <hotspot id="Point07" description="" skinid="ht_url" tilt="-12.21" url="" pan="-107.18" target="_blank" title=""/>
+      <hotspot id="Point07" description="" skinid="ht_url" tilt="-12.21" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIaWJrUWczR2REVlk?usp=sharing" pan="-107.18" target="_blank" title=""/>
     </hotspots>
     <media/>
     <transition zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomfov="20" softedge="0" enabled="0" type="crossdissolve" zoomout="0"/>
