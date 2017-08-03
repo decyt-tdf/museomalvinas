@@ -1,158 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node1">
+<tour start="node6">
+  <panorama id="node6">
+    <input levelbiashidpi="0.400" overlap="1" height="1387" levelbias="0.400" levelingroll="0" width="1387" levelingpitch="0" leveltileurl="tiles/1 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" height="1387" predecode="0" width="1387"/>
+      <level preload="0" height="693" predecode="0" width="693"/>
+      <level preload="1" height="346" predecode="1" width="346"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" pan="360"/>
+    </view>
+    <userdata latitude="-75.474837" source="" description="" comment="" tags="Pano2VR5" author="" datetime="" longitude="-89.474837" copyright="" info="" title=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label border="1" borderradius="1" wordwrap="1" height="20" textalpha="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" description="" skinid="ht_node" tilt="5.91" url="{node1}" pan="110.34" target="" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomfov="20" softedge="0" enabled="0" type="crossdissolve" zoomout="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboard="0" contextfullscreen="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0"/>
+  </panorama>
   <panorama id="node1">
-    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="1394" height="1394" overlap="1" leveltileurl="tiles/100_0117 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="0.400">
-      <level width="1394" height="1394" predecode="0" preload="0"/>
-      <level width="697" height="697" predecode="0" preload="0"/>
-      <level width="348" height="348" predecode="1" preload="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbiashidpi="0.400" overlap="1" height="1394" levelbias="0.400" levelingroll="0" width="1394" levelingpitch="0" leveltileurl="tiles/100_0117 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" height="1394" predecode="0" width="1394"/>
+      <level preload="0" height="697" predecode="0" width="697"/>
+      <level preload="1" height="348" predecode="1" width="348"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
       <start fov="54.0495" tilt="-8.97984" pan="100.153"/>
       <min fov="5" tilt="-90" pan="0"/>
       <max fov="120" tilt="90" pan="360"/>
     </view>
-    <userdata datetime="" latitude="-75.474837" source="" tags="museo" author="" comment="" info="" longitude="-89.474837" title="" description="" copyright=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label background="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" width="180" height="20" textcolor="0x000000" wordwrap="1" enabled="1" borderradius="1" border="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
-      <hotspot skinid="ht_node" target="" id="Point01" tilt="-0.99" title="" description="" url="{node2}" pan="94.64"/>
-      <hotspot skinid="ht_image" target="" id="Point02" tilt="2.9" title="" description="" url="images/malvinas.jpg" pan="-8.8"/>
-      <hotspot skinid="ht_image" target="" id="Point03" tilt="-16.17" title="" description="" url="images/panel1.jpg" pan="75.72"/>
-      <hotspot skinid="ht_image" target="" id="Point04" tilt="-0.4" title="asd" description="asdasdasdas" url="images/panel2.jpg" pan="50.69"/>
-      <hotspot skinid="ht_image" target="" id="Point05" tilt="3.43" title="" description="" url="images/panel3.jpg" pan="76.77"/>
-      <hotspot skinid="ht_image" target="" id="Point06" tilt="3.33" title="" description="" url="images/panel4.jpg" pan="69.62"/>
-      <hotspot skinid="ht_image" target="" id="Point07" tilt="3.37" title="" description="" url="images/panel5.jpg" pan="62.53"/>
-      <hotspot skinid="ht_image" target="" id="Point08" tilt="-1.8" title="" description="" url="images/panel6.jpg" pan="69.71"/>
-      <hotspot skinid="ht_image" target="" id="Point09" tilt="-1.57" title="" description="" url="images/panel7.jpg" pan="76.94"/>
-      <hotspot skinid="ht_image" target="" id="Point10" tilt="-1.85" title="" description="" url="images/panel8.jpg" pan="62.38"/>
-      <hotspot skinid="ht_image" target="" id="Point11" tilt="-6.68" title="" description="" url="images/panel9.jpg" pan="77.17"/>
-      <hotspot skinid="ht_image" target="" id="Point12" tilt="-6.7" title="" description="" url="images/panel10.jpg" pan="69.78"/>
-      <hotspot skinid="ht_image" target="" id="Point13" tilt="-6.91" title="" description="" url="images/panel11.jpg" pan="62.34"/>
-      <hotspot skinid="ht_image" target="" id="Point14" tilt="-14.33" title="" description="" url="images/panel11.jpg" pan="64.42"/>
-      <hotspot skinid="ht_image" target="" id="Point15" tilt="-13.97" title="" description="" url="images/panel12.jpg" pan="57.29"/>
-      <hotspot skinid="ht_image" target="" id="Point16" tilt="-13.49" title="" description="" url="images/panel13.jpg" pan="51.1"/>
-      <hotspot skinid="ht_image" target="" id="Point17" tilt="-18.62" title="" description="" url="images/panel10.jpg" pan="64.08"/>
-      <hotspot skinid="ht_image" target="" id="Point18" tilt="-19.79" title="" description="" url="images/panel1.jpg" pan="57.69"/>
-      <hotspot skinid="ht_image" target="" id="Point19" tilt="-18.16" title="" description="" url="images/panel14.jpg" pan="50.49"/>
-      <hotspot skinid="ht_image" target="" id="Point20" tilt="-22.65" title="" description="" url="images/panel15.jpg" pan="49.96"/>
-      <hotspot skinid="ht_image" target="" id="Point21" tilt="-24.08" title="" description="" url="images/panel16.jpg" pan="64.2"/>
-      <hotspot skinid="ht_image" target="" id="Point22" tilt="-30.75" title="" description="" url="images/panel17.jpg" pan="77.37"/>
-      <hotspot skinid="ht_image" target="" id="Point23" tilt="-30.56" title="" description="" url="images/panel18.jpg" pan="69.06"/>
-      <hotspot skinid="ht_image" target="" id="Point24" tilt="-29.98" title="" description="" url="images/panel19.jpg" pan="61.57"/>
-      <hotspot skinid="ht_image" target="" id="Point25" tilt="-34.96" title="" description="" url="images/panel20.jpg" pan="77.12"/>
-      <hotspot skinid="ht_image" target="" id="Point26" tilt="-34.51" title="" description="" url="images/panel21.jpg" pan="69.45"/>
-      <hotspot skinid="ht_image" target="" id="Point27" tilt="-34.33" title="" description="" url="images/panel22.jpg" pan="61.43"/>
-      <hotspot skinid="ht_image" target="" id="Point28" tilt="-38.78" title="" description="" url="images/panel23.jpg" pan="76.82"/>
-      <hotspot skinid="ht_image" target="" id="Point29" tilt="-39.03" title="" description="" url="images/panel24.jpg" pan="68.66"/>
-      <hotspot skinid="ht_image" target="" id="Point30" tilt="-37.8" title="" description="" url="images/panel25.jpg" pan="60.56"/>
-      <hotspot skinid="ht_image" target="" id="Point31" tilt="5.67" title="" description="" url="images/IMG_7240.JPG" pan="129.63"/>
-      <hotspot skinid="ht_image" target="" id="Point32" tilt="-3.62" title="" description="" url="images/IMG_7241.JPG" pan="140.31"/>
-      <hotspot skinid="ht_image" target="" id="Point33" tilt="15.39" title="" description="" url="images/IMG_7242.JPG" pan="140.72"/>
-      <hotspot skinid="ht_image" target="" id="Point34" tilt="-20.62" title="" description="" url="images/IMG_7244.JPG" pan="140.46"/>
-      <hotspot skinid="ht_image" target="" id="Point35" tilt="-21.13" title="" description="" url="images/IMG_7245.JPG" pan="123.08"/>
-      <hotspot skinid="ht_info" target="" id="Point36" tilt="13.41" title="titulo de la inforamcion" description="Informacion informacion Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion " url="" pan="129.36"/>
-      <hotspot skinid="ht_info" target="" id="Point37" tilt="11.71" title="titulo de la informacion" description="Informacion informacion Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion&#xa;Informacion informacion " url="" pan="-2.96"/>
-      <hotspot skinid="ht_node" target="" id="Point38" tilt="-2.77" title="" description="" url="{node4}" pan="24.43"/>
+    <userdata latitude="-75.474837" source="" description="" comment="" tags="museo" author="" datetime="" longitude="-89.474837" copyright="" info="" title=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label border="1" borderradius="1" wordwrap="1" height="20" textalpha="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" description="" skinid="ht_node" tilt="-0.99" url="{node2}" pan="94.64" target="" title=""/>
+      <hotspot id="Point02" description="" skinid="ht_url" tilt="7.85" url="https://drive.google.com/file/d/0B6WsUPMm5PNITjFIdFZKTURQaU0/view" pan="-2.2" target="_blank" title=""/>
+      <hotspot id="Point03" description="" skinid="ht_url" tilt="-11.3" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIamhobUJQdTJuREU?usp=sharing" pan="65.7" target="_blank" title=""/>
+      <hotspot id="Point31" description="" skinid="ht_url" tilt="-0.02" url="https://drive.google.com/file/d/0B68uyEu1RE7HZnd3MGhXaElzc0E/view?usp=sharing" pan="130.81" target="_blank" title=""/>
+      <hotspot id="Point38" description="" skinid="ht_node" tilt="-2.77" url="{node4}" pan="24.43" target="" title=""/>
+      <hotspot id="Point04" description="" skinid="ht_node" tilt="-15.7" url="{node6}" pan="-34.05" target="" title=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" zoomfov="20" blendcolor="0x000000" type="crossdissolve" softedge="0" enabled="0" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <control dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0"/>
+    <transition zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomfov="20" softedge="0" enabled="0" type="crossdissolve" zoomout="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboard="0" contextfullscreen="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node2">
-    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="1394" height="1394" overlap="1" leveltileurl="tiles/100_0123 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="0.400">
-      <level width="1394" height="1394" predecode="0" preload="0"/>
-      <level width="697" height="697" predecode="0" preload="0"/>
-      <level width="348" height="348" predecode="1" preload="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbiashidpi="0.400" overlap="1" height="1394" levelbias="0.400" levelingroll="0" width="1394" levelingpitch="0" leveltileurl="tiles/100_0123 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" height="1394" predecode="0" width="1394"/>
+      <level preload="0" height="697" predecode="0" width="697"/>
+      <level preload="1" height="348" predecode="1" width="348"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
       <start fov="54.0495" tilt="-3.82043" pan="152.602"/>
       <min fov="5" tilt="-90" pan="0"/>
       <max fov="120" tilt="90" pan="360"/>
     </view>
-    <userdata datetime="" latitude="-75.474837" source="" tags="museo" author="" comment="" info="" longitude="-89.474837" title="" description="" copyright=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label background="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" width="180" height="20" textcolor="0x000000" wordwrap="1" enabled="1" borderradius="1" border="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
-      <hotspot skinid="ht_node" target="" id="Point01" tilt="-5.02" title="" description="" url="{node1}" pan="-143.75"/>
-      <hotspot skinid="ht_node" target="" id="Point02" tilt="-4.86" title="" description="" url="{node3}" pan="-55.22"/>
-      <hotspot skinid="ht_node" target="" id="Point03" tilt="-7.38" title="" description="" url="{node5}" pan="31.55"/>
-      <hotspot skinid="ht_node" target="" id="Point04" tilt="-4.28" title="" description="" url="{node4}" pan="-31.49"/>
+    <userdata latitude="-75.474837" source="" description="" comment="" tags="museo" author="" datetime="" longitude="-89.474837" copyright="" info="" title=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label border="1" borderradius="1" wordwrap="1" height="20" textalpha="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" description="" skinid="ht_node" tilt="-5.02" url="{node1}" pan="-143.75" target="" title=""/>
+      <hotspot id="Point02" description="" skinid="ht_node" tilt="-4.86" url="{node3}" pan="-55.22" target="" title=""/>
+      <hotspot id="Point03" description="" skinid="ht_node" tilt="-7.38" url="{node5}" pan="31.55" target="" title=""/>
+      <hotspot id="Point04" description="" skinid="ht_node" tilt="-4.28" url="{node4}" pan="-31.49" target="" title=""/>
+      <hotspot id="Point05" description="" skinid="ht_url" tilt="1.54" url="https://drive.google.com/file/d/0B68uyEu1RE7HeGpsdzBSR0l4UE0/view?usp=sharing" pan="148.99" target="_blank" title=""/>
+      <hotspot id="Point06" description="" skinid="ht_url" tilt="0.5" url="https://drive.google.com/file/d/0B68uyEu1RE7HTGtVaktKYV83ZWM/view?usp=sharing" pan="-177.2" target="_blank" title=""/>
+      <hotspot id="Point07" description="" skinid="ht_url" tilt="-12.21" url="" pan="-107.18" target="_blank" title=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" zoomfov="20" blendcolor="0x000000" type="crossdissolve" softedge="0" enabled="0" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <control dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0"/>
+    <transition zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomfov="20" softedge="0" enabled="0" type="crossdissolve" zoomout="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboard="0" contextfullscreen="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node3">
-    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="1396" height="1396" overlap="1" leveltileurl="tiles/100_0129 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="0.400">
-      <level width="1396" height="1396" predecode="0" preload="0"/>
-      <level width="698" height="698" predecode="0" preload="0"/>
-      <level width="349" height="349" predecode="1" preload="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbiashidpi="0.400" overlap="1" height="1396" levelbias="0.400" levelingroll="0" width="1396" levelingpitch="0" leveltileurl="tiles/100_0129 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" height="1396" predecode="0" width="1396"/>
+      <level preload="0" height="698" predecode="0" width="698"/>
+      <level preload="1" height="349" predecode="1" width="349"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
       <start fov="54.0495" tilt="-12.6563" pan="165.481"/>
       <min fov="5" tilt="-90" pan="0"/>
       <max fov="120" tilt="90" pan="360"/>
     </view>
-    <userdata datetime="" latitude="-75.474837" source="" tags="museo" author="" comment="" info="" longitude="-89.474837" title="" description="" copyright=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label background="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" width="180" height="20" textcolor="0x000000" wordwrap="1" enabled="1" borderradius="1" border="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
-      <hotspot skinid="ht_node" target="" id="Point01" tilt="-5.67" title="" description="" url="{node2}" pan="-42.82"/>
-      <hotspot skinid="ht_node" target="" id="Point02" tilt="7.44" title="" description="" url="{node4}" pan="-108.22"/>
+    <userdata latitude="-75.474837" source="" description="" comment="" tags="museo" author="" datetime="" longitude="-89.474837" copyright="" info="" title=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label border="1" borderradius="1" wordwrap="1" height="20" textalpha="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" description="" skinid="ht_node" tilt="-5.67" url="{node2}" pan="-42.82" target="" title=""/>
+      <hotspot id="Point02" description="" skinid="ht_node" tilt="7.44" url="{node4}" pan="-108.22" target="" title=""/>
+      <hotspot id="Point03" description="" skinid="ht_url" tilt="-28.39" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIZWIxX3pHQTNPaWM?usp=sharing" pan="-108.22" target="_blank" title=""/>
+      <hotspot id="Point04" description="" skinid="ht_url" tilt="-0.75" url="https://nuestrasmalvinas.org/historia" pan="176.8" target="_blank" title=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" zoomfov="20" blendcolor="0x000000" type="crossdissolve" softedge="0" enabled="0" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <control dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0"/>
+    <transition zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomfov="20" softedge="0" enabled="0" type="crossdissolve" zoomout="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboard="0" contextfullscreen="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node4">
-    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="1386" height="1386" overlap="1" leveltileurl="tiles/100_0135 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="0.400">
-      <level width="1386" height="1386" predecode="0" preload="0"/>
-      <level width="693" height="693" predecode="0" preload="0"/>
-      <level width="346" height="346" predecode="1" preload="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbiashidpi="0.400" overlap="1" height="1386" levelbias="0.400" levelingroll="0" width="1386" levelingpitch="0" leveltileurl="tiles/100_0135 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" height="1386" predecode="0" width="1386"/>
+      <level preload="0" height="693" predecode="0" width="693"/>
+      <level preload="1" height="346" predecode="1" width="346"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
       <start fov="54.0495" tilt="-14.3238" pan="-55.5225"/>
       <min fov="5" tilt="-90" pan="0"/>
       <max fov="120" tilt="90" pan="360"/>
     </view>
-    <userdata datetime="" latitude="-75.474837" source="" tags="museo" author="" comment="" info="" longitude="-89.474837" title="" description="" copyright=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label background="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" width="180" height="20" textcolor="0x000000" wordwrap="1" enabled="1" borderradius="1" border="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
-      <hotspot skinid="ht_node" target="" id="Point01" tilt="-1.48" title="" description="" url="{node3}" pan="-109.05"/>
-      <hotspot skinid="ht_node" target="" id="Point02" tilt="-4.56" title="" description="" url="{node5}" pan="59.57"/>
-      <hotspot skinid="ht_node" target="" id="Point03" tilt="-6.32" title="" description="" url="{node2}" pan="160.79"/>
-      <hotspot skinid="ht_node" target="" id="Point04" tilt="-4.83" title="" description="" url="{node1}" pan="-172.9"/>
+    <userdata latitude="-75.474837" source="" description="" comment="" tags="museo" author="" datetime="" longitude="-89.474837" copyright="" info="" title=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label border="1" borderradius="1" wordwrap="1" height="20" textalpha="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" description="" skinid="ht_node" tilt="-1.48" url="{node3}" pan="-109.05" target="" title=""/>
+      <hotspot id="Point02" description="" skinid="ht_node" tilt="-4.56" url="{node5}" pan="59.57" target="" title=""/>
+      <hotspot id="Point03" description="" skinid="ht_node" tilt="-6.32" url="{node2}" pan="160.79" target="" title=""/>
+      <hotspot id="Point04" description="" skinid="ht_node" tilt="-4.83" url="{node1}" pan="-172.9" target="" title=""/>
+      <hotspot id="Point05" description="" skinid="ht_url" tilt="-33.04" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIaTlveTltRHpMMUk?usp=sharing" pan="-119.56" target="_blank" title=""/>
+      <hotspot id="Point06" description="" skinid="ht_url" tilt="-6.19" url="https://drive.google.com/file/d/0B6WsUPMm5PNILTJJSVUwTGYtbVU/view?usp=sharing" pan="121.55" target="_blank" title=""/>
+      <hotspot id="Point07" description="" skinid="ht_url" tilt="1.46" url="https://nuestrasmalvinas.org/historia" pan="-51.03" target="_blank" title=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" zoomfov="20" blendcolor="0x000000" type="crossdissolve" softedge="0" enabled="0" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <control dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0"/>
+    <transition zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomfov="20" softedge="0" enabled="0" type="crossdissolve" zoomout="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboard="0" contextfullscreen="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node5">
-    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="1395" height="1395" overlap="1" leveltileurl="tiles/100_0141 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="0.400">
-      <level width="1395" height="1395" predecode="0" preload="0"/>
-      <level width="697" height="697" predecode="0" preload="0"/>
-      <level width="348" height="348" predecode="1" preload="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbiashidpi="0.400" overlap="1" height="1395" levelbias="0.400" levelingroll="0" width="1395" levelingpitch="0" leveltileurl="tiles/100_0141 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" height="1395" predecode="0" width="1395"/>
+      <level preload="0" height="697" predecode="0" width="697"/>
+      <level preload="1" height="348" predecode="1" width="348"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
       <start fov="54.0495" tilt="-7.23213" pan="-112.246"/>
       <min fov="5" tilt="-90" pan="0"/>
       <max fov="120" tilt="90" pan="360"/>
     </view>
-    <userdata datetime="" latitude="-75.474837" source="" tags="museo" author="" comment="" info="" longitude="-89.474837" title="" description="" copyright=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label background="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" width="180" height="20" textcolor="0x000000" wordwrap="1" enabled="1" borderradius="1" border="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
-      <hotspot skinid="ht_node" target="" id="Point01" tilt="-8.85" title="" description="" url="{node4}" pan="66.06"/>
-      <hotspot skinid="ht_node" target="$fwd" id="Point02" tilt="-3.62" title="100_0117 Panorama" description="" url="{node2}" pan="-0.03"/>
+    <userdata latitude="-75.474837" source="" description="" comment="" tags="museo" author="" datetime="" longitude="-89.474837" copyright="" info="" title=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label border="1" borderradius="1" wordwrap="1" height="20" textalpha="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" background="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" description="" skinid="ht_node" tilt="-8.85" url="{node4}" pan="66.06" target="" title=""/>
+      <hotspot id="Point02" description="" skinid="ht_node" tilt="-3.62" url="{node2}" pan="-0.03" target="$fwd" title="100_0117 Panorama"/>
+      <hotspot id="Point03" description="" skinid="ht_url" tilt="-43.1" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIYWd2anlQX3A0RVU?usp=sharing" pan="-87.84" target="_blank" title=""/>
+      <hotspot id="Point04" description="" skinid="ht_url" tilt="-1.53" url="https://drive.google.com/file/d/0B6WsUPMm5PNIWUJjM2RqaVFHcTg/view?usp=sharing" pan="-176.51" target="_blank" title=""/>
+      <hotspot id="Point05" description="" skinid="ht_url" tilt="-8.26" url="https://drive.google.com/file/d/0B6WsUPMm5PNIUEJNNlJfNjV5X0U/view?usp=sharing" pan="12.65" target="_blank" title=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" zoomfov="20" blendcolor="0x000000" type="crossdissolve" softedge="0" enabled="0" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <control dblclickfullscreen="0" hideabout="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0"/>
+    <transition zoomspeed="2" zoomin="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomfov="20" softedge="0" enabled="0" type="crossdissolve" zoomout="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" lockedkeyboard="0" contextfullscreen="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0"/>
   </panorama>
 </tour>
