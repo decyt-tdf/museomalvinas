@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.0.2/15080
-// Filename: simplex_v5.ggsk
-// Generated jue. ago. 3 12:08:05 2017
+// Filename: sherix88.ggsk
+// Generated mié. ago. 23 22:19:42 2017
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
@@ -3473,10 +3473,10 @@ function pano2vrSkin(player,base) {
 			this._hsimage_node.ggType='svg';
 			hs ='';
 			hs+='cursor : pointer;';
-			hs+='height : 32px;';
+			hs+='height : 31px;';
 			hs+='left : -16px;';
 			hs+='position : absolute;';
-			hs+='top : -16px;';
+			hs+='top : -17px;';
 			hs+='visibility : inherit;';
 			hs+='width : 32px;';
 			this._hsimage_node.setAttribute('style',hs);
@@ -4147,7 +4147,7 @@ function pano2vrSkin(player,base) {
 			hs+='height : 50px;';
 			hs+='left : -24px;';
 			hs+='position : absolute;';
-			hs+='top : -24px;';
+			hs+='top : -25px;';
 			hs+='visibility : inherit;';
 			hs+='width : 50px;';
 			this._hsimage_image.setAttribute('style',hs);
