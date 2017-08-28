@@ -120,10 +120,10 @@
       <hotspot id="Point02" title="" target="" description="" skinid="ht_node" pan="-58.88" tilt="-5.97" url="{node3}"/>
       <hotspot id="Point03" title="" target="" description="" skinid="ht_node" pan="36.91" tilt="-8.2" url="{node5}"/>
       <hotspot id="Point04" title="" target="" description="" skinid="ht_node" pan="-32.1" tilt="-8.99" url="{node4}"/>
-      <hotspot id="Point05" title="" target="_blank" description="" skinid="ht_url" pan="151" tilt="-2.8" url="https://drive.google.com/file/d/0B68uyEu1RE7HeGpsdzBSR0l4UE0/view?usp=sharing"/>
+      <hotspot id="Point05" title="" target="_blank" description="" skinid="ht_url" pan="151" tilt="-2.8" url="https://drive.google.com/file/d/0B6WsUPMm5PNIT2l2cW5GMXhxbXc/view"/>
       <hotspot id="Point06" title="" target="_blank" description="" skinid="ht_url" pan="-175.4" tilt="-1.89" url="https://drive.google.com/file/d/0B68uyEu1RE7HTGtVaktKYV83ZWM/view?usp=sharing"/>
       <hotspot id="Point07" title="" target="_blank" description="" skinid="ht_url" pan="-106.51" tilt="-24.61" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIaWJrUWczR2REVlk?usp=sharing"/>
-      <polyhotspot id="Poly01" title="" target="_blank" description="" url="https://drive.google.com/file/d/0B68uyEu1RE7HeGpsdzBSR0l4UE0/view?usp=sharing">
+      <polyhotspot id="Poly01" title="" target="_blank" description="" url="https://drive.google.com/file/d/0B6WsUPMm5PNIT2l2cW5GMXhxbXc/view">
         <vertex pan="167.85" tilt="24.47"/>
         <vertex pan="167.62" tilt="-31.7"/>
         <vertex pan="136.53" tilt="-32.18"/>

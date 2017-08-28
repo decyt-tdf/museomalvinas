@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.0.2/15080
 // Filename: sherix88.ggsk
-// Generated mié. ago. 23 22:38:19 2017
+// Generated lun. ago. 28 10:54:31 2017
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
